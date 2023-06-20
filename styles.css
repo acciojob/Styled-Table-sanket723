@@ -1,1 +1,21 @@
 /* your code */
+table{
+/* 	border: 0px solid black; */
+	background-color:#EFEFEF;
+}
+
+thead{
+	background-color:#215A8E;
+	color:white;
+}
+
+
+.grey{
+/* 	background-color:#626262; */
+/* 	background-color:#EFEFEF; */
+	background-color:rgb(221,221,221);
+}
+
+.white{
+	background-color:#EFEFEF;
+}
